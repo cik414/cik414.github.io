@@ -5,7 +5,7 @@ body {
 .tip {
     position: relative;
     width: 100%;
-    height: 3%;
+    height: 10%;
     text-align: center;
 }
 .n1 {
@@ -17,7 +17,7 @@ body {
 .n2 {
     position: absolute;
     width: 100%;
-    bottom: 5%;
+    bottom: 20%;
     text-align: right;
 }
 body {
@@ -34,5 +34,5 @@ body {
     overflow: scroll;
 }
 p {
-    font-size: 1.875rem;
+    font-size: 1.4375rem;
 }
