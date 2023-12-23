@@ -33,3 +33,6 @@ body {
 body {
     overflow: scroll;
 }
+p {
+    font-size: 1.25rem;
+}
